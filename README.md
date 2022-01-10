@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalhando com Informática 
 - 🌱 Cursando analise e desenvolvimento de sistemas
 - 🤔 Buscando estágio na área 
-- 📫 contato linkedin: https://www.linkedin.com/in/evandro-de-souza-serikawa-87467a172/
+- 📫 contato: (16) 98233-7168
 
 <div>	
 	<a href="https://github.com/EvandroSerikawa">
