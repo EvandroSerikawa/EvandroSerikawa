@@ -24,10 +24,8 @@
 ##
 <div>
 	<a href="https://www.linkedin.com/in/evandro-de-souza-serikawa-87467a172/" target="_blank">	
-	<img align="center" alt="linkedin" height="150" widht="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"/>
-	</a>
-
+	<img align="center" alt="linkedin" height="150" widht="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"/></a>
+	
 	<a href="https://www.facebook.com/evandro.serikawa" target="_blank">	
-	<img align="center" alt="facebook" height="150" widht="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" target="_blank"/>
-	</a>
+	<img align="center" alt="linkedin" height="150" widht="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" target="_blank"/></a>
 </div>
