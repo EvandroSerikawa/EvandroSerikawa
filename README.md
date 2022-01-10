@@ -23,7 +23,7 @@
 
 ##
 <div>
-	<a href="https://www.linkedin.com/in/evandro-de-souza-serikawa-87467a172/" target="_blank">	
+	<a href="https://www.linkedin.com/in/evandro-de-souza-serikawa-87467a172/" target="blank">	
 	<img align="center" alt="linkedin" height="150" widht="auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
 	</a>
 </div>
