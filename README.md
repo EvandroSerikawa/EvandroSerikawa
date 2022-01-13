@@ -24,5 +24,5 @@
 ##
 <div>
 	<a href="https://www.linkedin.com/in/evandro-de-souza-serikawa-87467a172/" target="_blank"><img align="center" alt="linkedin" height="150" widht="auto" 
-background-color="white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"/></a>
+ 		 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"/></a>
 </div>
