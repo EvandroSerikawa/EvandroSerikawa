@@ -1,8 +1,8 @@
 ### Olá eu sou Evandro Serikawa 🎧
 
-- 🔭 Analista de suporte de software
-- 🌱 Cursando analise e desenvolvimento de sistemas
-- 🤔 Estudando Java
+- 🔭 Analista de Suporte de Software
+- 🌱 Gestão em Tecnologia da informação
+- 🤔 Estudante de Linguagens de programação e Frameworks
 - 📫 contato: (16) 98233-7168
 
 <div>	
