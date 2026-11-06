@@ -20,10 +20,7 @@
  
 🟢📞 WhatsApp
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evandro-serikawa/)
-
-
-<p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=EvandroSerikawa&show_icons=true&theme=transparent&hide_border=true" alt="Estatísticas do GitHub de Evandro" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvandroSerikawa&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Linguagens mais usadas por Evandro" />
-</p>
+<div>
+	<a href="https://www.linkedin.com/in/evandro-serikawa/" target="_blank"><img align="center" alt="linkedin" height="50" widht="auto" 
+ 		 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"/></a>
+</div>
