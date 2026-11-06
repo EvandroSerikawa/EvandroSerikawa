@@ -17,15 +17,17 @@
 
 
 ## Contato
-<div>
-	<a href="https://wa.me/5516982337168" target="_blank" rel="noopener noreferrer">
-		<img align="center" alt="WhatsApp" height="70" width="auto" src="https://cdn.simpleicons.org/whatsapp/25D366" />
-	</a>
-</div>
+<div style="display: flex; flex-direction: row; align-items: center; gap: 12px;">
+	<div>
+		<a href="https://wa.me/5516982337168" target="_blank" rel="noopener noreferrer">
+			<img align="center" alt="WhatsApp" height="40" width="auto" src="https://cdn.simpleicons.org/whatsapp/25D366" />
+		</a>
+	</div>
 
-<div>
-	<a href="https://www.linkedin.com/in/evandro-serikawa/" target="_blank" rel="noopener noreferrer">
-		<img align="center" alt="linkedin" height="70" widht="auto" 
- 		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"/>
- 	</a>
+	<div>
+		<a href="https://www.linkedin.com/in/evandro-serikawa/" target="_blank" rel="noopener noreferrer">
+			<img align="center" alt="linkedin" height="40" widht="auto" 
+	 		src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"/>
+	 	</a>
+	</div>
 </div>
