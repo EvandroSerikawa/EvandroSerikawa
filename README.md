@@ -1,28 +1,29 @@
-### Olá eu sou Evandro Serikawa 🎧
 
-- 🔭 Analista de Suporte de Software
-- 🌱 Gestão em Tecnologia da informação
-- 🤔 Estudante de Linguagens de programação e Frameworks
-- 📫 contato: (16) 98233-7168
+# Olá, eu sou Evandro Serikawa 👋
 
-<div>	
-	<a href="https://github.com/EvandroSerikawa">
-	<img height ="180em" src="https://github-readme-stats.vercel.app/api?username=EvandroSerikawa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-	<img height ="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvandroSerikawa&layout=compact&langs_count=16&theme=dark"/>
-</div>
+🎧 Analista de Suporte de Software  
+🎓 Formado em Gestão em Tecnologia da Informação  
+💻 Atualmente estudando Desenvolvimento backend com Java e Spring Boot
 
-<div style="display:inline_block"><br>
-	<img align="center" alt="html" height="60" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-	<img align="center" alt="css" height="60" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-	<img align="center" alt="javascript" height="60" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-	<img align="center" alt="node" height="60" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-	<img align="center" alt="react" height="60" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-	<img align="center" alt="java" height="60" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-	<img align="center" alt="mysql" height="60" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-</div>
+## 
 
-##
-<div>
-	<a href="https://www.linkedin.com/in/evandro-serikawa/" target="_blank"><img align="center" alt="linkedin" height="70" widht="auto" 
- 		 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"/></a>
-</div>
+<p>
+  <img alt="Java" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="Spring Boot" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img alt="PostgreSQL" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img alt="Apache Kafka" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
+  <img alt="Kubernetes" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+</p>
+
+
+## Contato
+ 
+🟢📞 WhatsApp
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evandro-serikawa/)
+
+
+<p>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=EvandroSerikawa&show_icons=true&theme=transparent&hide_border=true" alt="Estatísticas do GitHub de Evandro" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvandroSerikawa&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Linguagens mais usadas por Evandro" />
+</p>
